@@ -1,2 +1,2 @@
-# beta.cobudget.co
+# cobudget.co
 production deploy of Cobudget beta
